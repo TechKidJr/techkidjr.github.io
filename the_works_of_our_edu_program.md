@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the + means in an email address.
+title: Status on our EDU program.
 description: By; Kidanny Roman
 image: 
 ---
