@@ -60,11 +60,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Christmas is around the corner!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Guess what? Christmas is around the corner! Yes, we have Thanksgiving before Christmas but still! I hope you got your wish list ready! You can start shopping by clicking the button will take you to amazon. If you would rather shop somewhere else I would recommend Target.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://amazon.com" class="button">Look for your Chrima gifts!</a></li>
 				</ul>
 			</div>
 		</div>
