@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am a 14 y/o programmer who can code basic HTML sites! I love playing games and other stuff!
+Hej 👋! Welcome to my website! I am a 15 y/o programmer who is learning Java, JavaScript, HTML, and Python! 🐍
